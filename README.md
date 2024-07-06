@@ -80,9 +80,4 @@ The server will run on `http://localhost:3000`.
     git checkout -b feature/update-order-endpoint
     ```
 6. **Write your code to implement this API endpoint**.
-8. **Follow the same steps as you did for the previous feature** (i.e. test and merge to main branch).
-
-    ## Optional (but highly recommended)
-
-1. **Allow the user to GET a list of orders filtered by status using the query params**.
-2. **Display the orders with a status of “New” on an “Orders” page in the UI**.
+7. **Follow the same steps as you did for the previous feature** (i.e. test and merge to main branch).
