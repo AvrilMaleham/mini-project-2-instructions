@@ -71,12 +71,12 @@ The server will run on `http://localhost:3000`.
 2. **Write your code to implement this API endpoint**.
 3. **Test your code locally using Postman**.
 4. **Merge your branch to main branch**:
-    ```git checkout main
+    ```bash
+    git checkout main
     git merge feature/create-orders-endpoint -m "your merge message here”
     ```
 5. **Create your second feature branch from the main branch**:
     ```bash
-    git checkout main
     git checkout -b feature/update-order-endpoint
     ```
 6. **Write your code to implement this API endpoint**.
@@ -87,5 +87,6 @@ The server will run on `http://localhost:3000`.
 1. **Allow the user to GET a list of orders filtered by status using the query params**.
 2. **Display the orders with a status of “New” on an “Orders” page in the UI**.
 
-![image](https://github.com/AvrilMaleham/mini-project-2-instructions/assets/112027745/8ed64537-5454-4659-8d89-3efdb50dd4b6)
+![image](https://github.com/AvrilMaleham/mini-project-2-instructions/assets/112027745/d758b154-50ec-448d-b364-a00f46727a48)
+
 
