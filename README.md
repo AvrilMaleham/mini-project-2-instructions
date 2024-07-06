@@ -87,3 +87,5 @@ The server will run on `http://localhost:3000`.
 1. **Allow the user to GET a list of orders filtered by status using the query params**.
 2. **Display the orders with a status of “New” on an “Orders” page in the UI**.
 
+![image](https://github.com/AvrilMaleham/mini-project-2-instructions/assets/112027745/8ed64537-5454-4659-8d89-3efdb50dd4b6)
+
